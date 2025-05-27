@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/map_elev_maker" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
