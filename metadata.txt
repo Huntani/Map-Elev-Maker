@@ -4,19 +4,19 @@
 
 [general]
 name=Map Elevation Maker
-qgisMinimumVersion=3.0
-description=Create contours and shadings for hiking maps - to be used with QuickOSM presets
-version=0.1
+qgisMinimumVersion=3.30
+description=Create contours and shadings for hiking maps - to be used as base layer for QuickOSM presets
+version=1.0
 author=Alberto Bianco
 email=albbianc@proton.me
 
 about=This plugin is designed to produce the contour lines and shading for hiking maps starting from raster DEM. 
-  Preset styles are designed to work with QuickOSM presets to generate beautiful maps, useful for hiking or boy scout activities. 
+  Preset styles are designed to work with QuickOSM presets to generate maps useful for hiking or boy scout activities. 
   
   Leave QGIS a little better than you found it
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/Huntani/Map-Elev-Maker/issues
+repository=https://github.com/Huntani/Map-Elev-Maker
 # End of mandatory metadata
 
 # Recommended items:
@@ -32,7 +32,7 @@ homepage=http://homepage
 category=Raster
 icon=icon.png
 # experimental flag
-experimental=True
+experimental=False
 
 # deprecated flag (applies to the whole plugin, not just a single version)
 deprecated=False
