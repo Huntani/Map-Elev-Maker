@@ -28,7 +28,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=python,hillshade,contour,DEM
 
-homepage=http://homepage
+homepage=https://github.com/Huntani/Map-Elev-Maker
 category=Raster
 icon=icon.png
 # experimental flag
